@@ -32,8 +32,7 @@ I'm a 4th-year student passionate about building cool stuff with code (and sippi
 
 ## 🍵 Fun Fact
 
-Legend has it that every time someone buys me tea, my code gets 10% better.  
-Feeling generous? ☕😉
+Legend has it that every time someone buys me tea, my code gets 10% better. ☕
 
 ---
 
